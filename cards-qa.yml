@@ -5,7 +5,7 @@ cards:
   message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
-    email: "56ad020feffabaf39c0674661c039c2b0eb8cf2c1a61be01dd258dee4c237253151fcb49afee3934d02aa3e36ef3bb5d"
+    email: "{cipher}56ad020feffabaf39c0674661c039c2b0eb8cf2c1a61be01dd258dee4c237253151fcb49afee3934d02aa3e36ef3bb5d"
   onCallSupport:
     - (310) 875-4367
     - (201) 236-1267
