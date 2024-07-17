@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "{cipher}069771a988327c0a4993009b951476c3c929618baa922f06aaa2689d2b3341697af4c4d4bcfadde9a9b827015e9d85367586a66936429ce34d00eaa61b1e35aa"
+  message: "{cipher}9c79803f32eb835f482537f5c1dff517b831c68e30923f29b14e0085da7007a9ab632545e4df06031318ca78d2cb8bb8030957111eee703ed91a3a2ba7aebf41fce46194547be4c9507894faa24101f3"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}7382e8419dff566d632453be7e0c8bdc6ee52771b10e4354cfa191f6006a39acb625dd7b857dbf140cbb6d0b28bdeb31"
